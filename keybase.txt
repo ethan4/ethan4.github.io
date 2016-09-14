@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/ethan_rose
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ethanrose.co.nz
+  * I am ethan_rose (https://keybase.io/ethan_rose) on keybase.
+  * I have a public key ASDuI9AvLeY2i2yWAcehJdFqjO1LL6zHeBKx6s52aYMzNwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120ee23d02f2de6368b6c9601c7a125d16a8ced4b2facc77812b1eace76698333370a",
+            "host": "keybase.io",
+            "kid": "0120ee23d02f2de6368b6c9601c7a125d16a8ced4b2facc77812b1eace76698333370a",
+            "uid": "4603c55648fc62da65755911fa199d00",
+            "username": "ethan_rose"
+        },
+        "service": {
+            "hostname": "ethanrose.co.nz",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1473827884,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1473827850,
+        "hash": "338c4e65d427d1c12d67d7bc472045c8934e02ad2c90149c51b04f92418874305c08a290af5715638629dcba48461e6a8c4ce8b4a612a6a4c752593d25dc0a6d",
+        "seqno": 635041
+    },
+    "prev": "f4c6b9d99e3f67e15f329c1a8d2e81588bf5b97a140e1f3ac2bc8e2d0212fe4f",
+    "seqno": 35,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7iPQLy3mNotslgHHoSXRaoztSy+sx3gSserOdmmDMzcKp3BheWxvYWTFAvl7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZWUyM2QwMmYyZGU2MzY4YjZjOTYwMWM3YTEyNWQxNmE4Y2VkNGIyZmFjYzc3ODEyYjFlYWNlNzY2OTgzMzMzNzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZWUyM2QwMmYyZGU2MzY4YjZjOTYwMWM3YTEyNWQxNmE4Y2VkNGIyZmFjYzc3ODEyYjFlYWNlNzY2OTgzMzMzNzBhIiwidWlkIjoiNDYwM2M1NTY0OGZjNjJkYTY1NzU1OTExZmExOTlkMDAiLCJ1c2VybmFtZSI6ImV0aGFuX3Jvc2UifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImV0aGFucm9zZS5jby5ueiIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTcifSwiY3RpbWUiOjE0NzM4Mjc4ODQsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3MzgyNzg1MCwiaGFzaCI6IjMzOGM0ZTY1ZDQyN2QxYzEyZDY3ZDdiYzQ3MjA0NWM4OTM0ZTAyYWQyYzkwMTQ5YzUxYjA0ZjkyNDE4ODc0MzA1YzA4YTI5MGFmNTcxNTYzODYyOWRjYmE0ODQ2MWU2YThjNGNlOGI0YTYxMmE2YTRjNzUyNTkzZDI1ZGMwYTZkIiwic2Vxbm8iOjYzNTA0MX0sInByZXYiOiJmNGM2YjlkOTllM2Y2N2UxNWYzMjljMWE4ZDJlODE1ODhiZjViOTdhMTQwZTFmM2FjMmJjOGUyZDAyMTJmZTRmIiwic2Vxbm8iOjM1LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQJqeJk2aRhSh0cma42q5+ASVWemQMgSWTJlty/9ffs7IVvFcQ2kfUyb2fewtqzfpwWUUGdVPQMpbFBzDy982mQOoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCWTfgY+KXXkTkepqIjPrbSsLdq1kwbv+M3N/R5L3EdxaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ethan_rose
+
+==================================================================
