@@ -14,7 +14,7 @@ description: Occasional quips and things of interest.
 webmentions: yes
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ethanrose.co.nz" # the base hostname & protocol for your site
+url: "http://ethanrose.co.nz" # the base hostname & protocol for your site
 twitter_username: ethan_rose
 github_username:  ethan4
 instagram_username: ethan__rose
