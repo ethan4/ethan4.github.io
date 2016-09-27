@@ -1,0 +1,36 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+lang: en
+title: Ethan Rose
+email: ethan@ethanrose.co.nz
+description: Occasional quips and things of interest.
+# Webmentions - leave blank (remove "yes") if you would not like to receive & display webmentions from other sites
+webmentions: yes
+
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://ethanrose.co.nz" # the base hostname & protocol for your site
+twitter_username: ethan_rose
+github_username:  ethan4
+instagram_username: ethan__rose
+
+# Can be over ridden with author: in Front Matter
+author: Ethan Rose
+
+# Expecting a full url, not relative to site.url
+author_img: https://avatars3.githubusercontent.com/u/2314126
+
+# Build settings
+markdown: kramdown
+gems:
+  - github-pages
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-gist
+
+paginate: 5

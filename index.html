@@ -1,58 +1,18 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, user-scalable=no">
-    <title>Ethan Rose</title>
-    <link rel="stylesheet" href="styles/main.css">
-    <link rel="icon" type="image/png" href="/images/favicon.png">
-  </head>
-  <body>
-    <div class="top-banner"></div>
-    <header>Hi, I'm Ethan Rose.</header>
-    <main>
-        <section class="row">
-        <p>I am an aspiring developer living in Auckland, New Zealand.<br>
-        I spend my spare time thinking about UX, electronics, networks and radios.</p>
+---
+layout: default
+---
 
-        <p>Find my PGP Key and proof of my online identity <a href="https://keybase.io/ethan_rose" title="PGP Key">here.</a></p>
-        </section>
-      <section class="row">
-        <ul class="link-grid">
-        <h1>Things</h1>
-          <li class="tile">
-            <a href="https://twitter.com/ethan_rose" title="Twitter"><img src="/images/social19.svg" alt="Twitter"></a>
-          </li>
-          <li class="tile">
-            <a href="https://medium.com/@ethan_rose" title="Medium"><img src="/images/page14.svg" alt="Blog"></a>
-          </li>
-          <li class="tile">
-            <a href="https://github.com/ethan4" title="Github"><img src="/images/github7.svg" alt="Github"></a>
-          </li>
-          <li class="tile">
-            <a href="http://500px.com/ethan_rose" title="500px"><img src="/images/500px1.svg" alt="500px"></a>
-          </li>
-          <li class="tile">
-            <a href="http://instagram.com/ethan__rose" title="Instagram"><img src="/images/vintage2.svg" alt="Instagram"></a>
-          </li>
-          <li class="tile">
-            <a href="http://www.last.fm/user/ethan4" title="Last.fm"><img src="/images/last3.svg" alt="Last.fm"></a>
-          </li>
-        </ul>
-      </section>
-      <section>&nbsp;</section>
-    </main>
-    <script src="scripts/main.js"></script>
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+<div class="posts">
+  {% for post in paginator.posts %}
+  {% include post.html post=post %}
+  {% endfor %}
+</div>
 
-      ga('create', 'UA-20025834-1', 'auto');
-      ga('send', 'pageview');
 
-    </script>
-  </body>
-</html>
-
+<div class="pagination" role="navigation">
+  {% if paginator.next_page %}
+  <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.github.url }}">Older</a> {% else %}
+  <span class="pagination-item older">Older</span> {% endif %} {% if paginator.previous_page %}
+  <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.github.url }}">Newer</a> {% else %}
+  <span class="pagination-item newer">Newer</span> {% endif %}
+</div>

@@ -1,0 +1,24 @@
+	<div class="banner h-card">
+		<img class="u-photo" src="{{ site.author_img }}">
+		<h2><span class="p-name">{{ site.author }}</span></h2>
+
+		<p>{{ site.description }}</p>
+		<ul class="soc">
+			{% if site.twitter_username %}
+		 		{% include icon-twitter.html %}
+		 	{% endif %}
+		 	{% if site.github_username %}
+				{% include icon-github.html %}
+			{% endif %}
+			{% if site.instagram_username %}
+				{% include icon-instagram.html %}
+			{% endif %}
+			<li><a href="https://500px.com/{{ site.500px_username }}" class="icon 500px" title="500px" rel="me"><svg viewBox="0 0 512 512"><path d="M256.3 293c26.9 31.2 58.3 58.5 99.9 58.5 56.1 0 89.5-42.6 89.5-96.8 0-54-34.1-94.2-89-94.2 -43.9 0-72.7 28.5-100.4 62.1 -28.5-34.1-56.7-62.1-101.4-62.1 -53.5 0-88.5 40.2-88.5 95.2 0 54.6 35.8 95.7 90.8 95.7C204.1 351.5 228.7 321.9 256.3 293zM115.5 256.8c0-21.3 13.9-44.5 39.3-44.5 26 0 52.7 25.9 70.4 45 -17.2 20.1-42.5 41.9-68.8 41.9C130.3 299.2 115.5 281.1 115.5 256.8zM287.3 257.3c18.4-19.9 41.2-45 68.3-45 26.4 0 41.4 20.8 41.4 44 0 23.4-13.7 43-39.8 43C329.2 299.2 305.7 278.5 287.3 257.3z"/></svg></a></li>
+			{% if site.email %}
+				{% include icon-email.html %}
+			{% endif %}
+			<li><a href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" class="icon rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg></a></li>
+
+		</ul>
+
+	</div>
