@@ -39,6 +39,7 @@ layout: default
       <div class="meta-wrap">
         <p><a href="{{ post.url | prepend: site.github.url }}">{{ page.title }} </a> posted on <time datetime="{{ page.date | date_to_xmlschema }}" class="dt-time post-date dt-published">{{ page.date | date_to_string }}</time>.</p>
         <p>This entry has been tagged with the keywords: {% for tags in page.tags %}<span class="tag">{{ tags }} </span>{% endfor %}</p>
+        <p>In the Category:<a class="p-category" href="{{ site.github.url }}/{{ page.categories }}">{{ page.categories }}</a>
     </div>
 
 </footer>
