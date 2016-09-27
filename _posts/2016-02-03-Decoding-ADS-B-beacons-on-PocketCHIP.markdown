@@ -2,7 +2,7 @@
 layout: post
 title:  "Decoding ADS-B beacons on PocketCHIP"
 date:   2016-09-22 10:30:00 +1200
-tags: SDR, radio
+tags: SDR, PocketCHIP, planes
 ---
 
 PocketCHIP is perfect for taking out in the field with it’s integrated keyboard, touchscreen and battery, so what better use for it than to decode ADS-B beacons from aircraft as they pass over your head?
