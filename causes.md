@@ -6,8 +6,8 @@ permalink: /causes/
 
 I donate or otherwise support the following causes. They do good things.
 
-![]({{ site.url }}/assets/eff-logo-name-72.jpg)
+![https://www.eff.org]({{ site.url }}/assets/eff-logo-name-72.jpg)
 
-![]({{ site.url }}/assets/riseup_logo.png)
+![https://riseup.net]({{ site.url }}/assets/riseup_logo.png)
 
-![]({{ site.url }}/assets/prx-logo.png)
+![http://www.prx.org]({{ site.url }}/assets/prx-logo.png)
