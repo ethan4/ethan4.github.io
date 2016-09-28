@@ -4,7 +4,7 @@ title: Causes
 permalink: /causes/
 ---
 
-I donate or otherwise support the following causes. They do good things.
+I support the following causes. They do good things.
 
 
 [![alt text]({{ site.url }}/assets/eff-logo-name-72.jpg)](https://eff.org)
