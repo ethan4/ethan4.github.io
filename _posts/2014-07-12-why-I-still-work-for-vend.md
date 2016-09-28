@@ -1,6 +1,11 @@
 ---
-published: true
+layout: post
+title:  "Why I (still) work for Vend"
+date:   2014-07-12 10:30:00 +1200
+tags: Vend
+category: Archive
 ---
+
 I first put on my green Vend shirt in January of 2013. **Boy does that feel like a long time ago.**
 
 [Vend](http://vendhq.com) runs at a pretty intense pace so things are always changing — better ways to do things, new verticals, new technology. Since I started we have opened an office in Melbourne and then a few months later another in Toronto which I helped get off the ground, and with plans to open two more in the very near future this is showing no signs of slowing. We've added almost 100 employees and grown our base of retailers to more than 10,000 active users.
