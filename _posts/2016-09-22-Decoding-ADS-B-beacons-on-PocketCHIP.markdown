@@ -47,4 +47,4 @@ Test. If you don’t see anything check your antenna connection and then Flightr
 
 Once you’re happy you’ve got it working right, get out and ideally up high with as few obstructions to the horizon as possible and do some plane spotting!
 
-![]({{ site.url }}/assets/IMG_1089.jpg)
+![]({{ site.url }}/assets/photos/IMG_1089.jpg)
