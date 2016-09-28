@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 I first put on my green Vend shirt in January of 2013. **Boy does that feel like a long time ago.**
 
