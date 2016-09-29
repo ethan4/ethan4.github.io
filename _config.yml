@@ -34,3 +34,13 @@ gems:
   - jekyll-gist
 
 paginate: 5
+
+prose:
+	media: 'assets'
+	rooturl: '_posts'
+  	siteurl: 'http://www.ethanrose.co.nz'
+  	ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
