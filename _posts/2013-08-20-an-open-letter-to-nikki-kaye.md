@@ -4,6 +4,7 @@ title:  "An Open Letter to Nikki Kaye"
 date:   2013-08-20 10:30:00 +1200
 tags: GCSB, bill, politics, letter
 category: Archive
+published: false
 ---
 
 My name is Ethan, I live and work here in Central Auckland.

@@ -4,6 +4,7 @@ title:  "On Moving to a New City"
 date:   2013-12-04 10:30:00 +1200
 tags: moving, immigration, home
 category: Archive
+published: false
 ---
 
 So I moved to Toronto, 13,879km from 'home' and here is what I found.

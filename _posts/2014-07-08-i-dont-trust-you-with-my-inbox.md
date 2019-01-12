@@ -4,6 +4,7 @@ title:  "I Don't Trust You (with my Inbox)"
 date:   2014-07-08 10:30:00 +1200
 tags: mail, data, hosted, decentralised
 category: Archive
+published: false
 ---
 
 Being someone who is fundamentally against data collection, mining, user profiling and all the other lovely things that advertisers and service providers like to do, there comes a point where just talking about it is not enough. In light of this I decided to attack running my own mail server on a Raspberry Pi and succeeded in freeing my data from the man once and for all. I think you should too and here is what you stand to gain:

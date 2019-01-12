@@ -4,6 +4,7 @@ title:  "Why I (still) work for Vend"
 date:   2014-07-12 10:30:00 +1200
 tags: Vend
 category: Archive
+published: false
 ---
 
 I first put on my green Vend shirt in January of 2013. **Boy does that feel like a long time ago.**

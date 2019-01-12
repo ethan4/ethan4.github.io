@@ -4,6 +4,7 @@ title:  "What it's like to work at a startup"
 date:   2013-05-02 10:30:00 +1200
 tags: Vend, startup, culture, employment
 category: Archive
+published: false
 ---
 
 Add 1 part idea, 1 part ambition, 5 parts effort and 5 parts actually caring. Stir over heat for a few years. Results may vary.
