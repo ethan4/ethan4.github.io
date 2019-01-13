@@ -99,4 +99,4 @@ lEr4hnOiwmyjJlXf2iaAOqMd9d42Pm+0Sq6rVlHKxjdPlQqZuvZ6W8LAS1/LUUBL
 download/raw:	[http://ethanrose.co.nz/0BB176B9.asc](http://ethanrose.co.nz/0BB176B9.asc)
 
 
-If you're not set up for PGP, [use Keybase.io](https://keybase.io/encrypt) and search for [`ethan_rose`](https://keybase.io/ethan_rose) to encrypt a message to me.
+If you're not set up for PGP, [use Keybase.io](https://keybase.io/encrypt) and search for [`ethan_rose`](https://keybase.io/ethan_rose) to encrypt a message for me or verify a message from me.
