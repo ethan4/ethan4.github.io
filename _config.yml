@@ -34,3 +34,5 @@ gems:
   - jekyll-gist
 
 paginate: 5
+
+theme: jekyll-theme-minimal
