@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.14.2//EN
+N:Rose;Ethan;;;
+FN:Ethan Rose
+EMAIL;type=INTERNET;type=HOME;type=pref:ethan@ethanrose.co.nz
+TEL;type=CELL;type=VOICE;type=pref:+64211389371
+ADR;type=HOME;type=pref:;;PO Box 9403;Auckland;Newmarket;1149;New Zealand
+item1.URL;type=pref:http://ethanrose.co.nz
+item1.X-ABLabel:_$!<HomePage>!$_
+X-ABUID:9BDDB501-21F4-4AE0-8821-D31F5E093A52:ABPerson
+END:VCARD
