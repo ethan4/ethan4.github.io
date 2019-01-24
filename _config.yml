@@ -8,7 +8,7 @@
 # Site settings
 lang: en
 title: Ethan Rose
-email: ethan@ethanrose.co.nz
+email: http://ethanrose.co.nz/ethan.vcf
 description: I am a tinkerer and apprentice electrician living in Auckland, New Zealand. <br> I spend my spare time thinking about UX, electronics, networks and radios.
 # Webmentions - leave blank (remove "yes") if you would not like to receive & display webmentions from other sites
 webmentions: yes
