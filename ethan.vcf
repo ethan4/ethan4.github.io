@@ -10,4 +10,6 @@ item1.X-ABLabel:Postal
 item2.URL;type=pref:http://ethanrose.co.nz
 item2.X-ABLabel:_$!<HomePage>!$_
 X-ABUID:9BDDB501-21F4-4AE0-8821-D31F5E093A52:ABPerson
+KEY;TYPE=PGP:http://ethanrose.co.nz/0BB176B9.asc
+TZ:+1200
 END:VCARD
