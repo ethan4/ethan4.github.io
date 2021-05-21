@@ -1,14 +1,16 @@
 BEGIN:VCARD
 VERSION:3.0
+PRODID:-//Apple Inc.//macOS 11.3.1//EN
 N:Rose;Ethan;;;
 FN:Ethan Rose
 EMAIL;type=INTERNET;type=HOME;type=pref:ethan@ethanrose.co.nz
 TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:+64211389371
 item1.ADR;type=pref:;;PO Box 9403;Auckland;Newmarket;1149;New Zealand
 item1.X-ABLabel:Postal
-item2.URL;type=pref:http://ethanrose.co.nz
+item2.URL;type=pref:https://ethanrose.co.nz
 item2.X-ABLabel:_$!<HomePage>!$_
-X-ABUID:9BDDB501-21F4-4AE0-8821-D31F5E093A52:ABPerson
-KEY;TYPE=PGP:http://ethanrose.co.nz/0BB176B9.asc
-TZ:+1200
+item3.URL:bitcoin:bc1qdf5puxk98npu8khjs7edkr9nv4zcvekfqpcnky
+item3.X-ABLabel:wallet
+item4.URL:ethereum:0x6a1aB0c7F3F6162d1817A0F9F0D51BBB1029207A
+item4.X-ABLabel:wallet
 END:VCARD
