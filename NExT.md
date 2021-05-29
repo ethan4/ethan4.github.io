@@ -6,7 +6,7 @@ permalink: /NExT/
 #### It's a chip! In your hand!
 
 ![X-Ray of Amal's hands showing implants on the left and right.]({{ site.url }}/assets/photos/NExT-implant.jpg)
-<span>An X-ray image showing someone with an implant in each hand (not me!).</span>
+<figcaption>An X-ray image showing someone with an implant in each hand (not me!).</figcaption>
 
 <p>So you've (probably) landed here by scanning my hand.</p>
 
