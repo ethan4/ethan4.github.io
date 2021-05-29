@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Contact
+permalink: /contact/
 redirect_to:
   - http://ethanrose.co.nz/ethan.vcf
-permalink: /contact/
 ---
 
 This page should redirect you.
